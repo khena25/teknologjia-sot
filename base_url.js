@@ -1,0 +1,1 @@
+var url = "http://techsot.al/wp-content/plugins/zen-mobile-app-native/";
